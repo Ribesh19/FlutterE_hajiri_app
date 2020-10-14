@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1051510239665-fms2l2rpjcqm030t0r7nl1mrro98bkfh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1051510239665-fms2l2rpjcqm030t0r7nl1mrro98bkfh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBR3NAsiTRgfeWjMtwR505N83_ihy4_yJw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1051510239665</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.eHajiriApp</string>
+	<key>PROJECT_ID</key>
+	<string>e-hajiree</string>
+	<key>STORAGE_BUCKET</key>
+	<string>e-hajiree.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1051510239665:ios:9c32c6cc35688a3a8f4d90</string>
+	<key>DATABASE_URL</key>
+	<string>https://e-hajiree.firebaseio.com</string>
+</dict>
+</plist>
