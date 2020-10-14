@@ -1,6 +1,13 @@
 # e_hajiri_app
 
-A new Flutter project.
+A new Flutter project for GPS based attendance using Firebase Functions and Firestore.
+
+# output
+
+![alt text](https://i.imgur.com/lEgt4ba.png) ![alt text](https://i.imgur.com/2dB8i1S.png)
+
+![alt text](https://i.imgur.com/CvRnqyE.png) ![alt text](https://imgur.com/IcmR3ZJ.png)
+
 
 ## Getting Started
 
