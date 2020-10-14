@@ -4,9 +4,9 @@ A new Flutter project for GPS based attendance using Firebase Functions and Fire
 
 # output
 
-![alt text](https://i.imgur.com/lEgt4ba.png = 250x250) ![alt text](https://i.imgur.com/2dB8i1S.png = 250x250)
+![alt text](https://i.imgur.com/lEgt4ba.png =250x250) ![alt text](https://i.imgur.com/2dB8i1S.png =250x250)
 
-![alt text](https://i.imgur.com/CvRnqyE.png = 250x250) ![alt text](https://imgur.com/IcmR3ZJ.png = 250x250)
+![alt text](https://i.imgur.com/CvRnqyE.png =250x250) ![alt text](https://imgur.com/IcmR3ZJ.png =250x250)
 
 
 ## Getting Started
